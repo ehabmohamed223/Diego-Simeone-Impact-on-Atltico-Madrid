@@ -1,4 +1,4 @@
-# **Diego Simeone’s Impact on Atlético Madrid**
+# **Deigo Simeone’s Impact on Atlético Madrid**
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -79,14 +79,7 @@ You can view or download the full performance report here:
 
 ---
 
-## **📌 Highlights from the Report**
+##  Data Processing & Analytics Notebook
 
-- ⚽ **La Liga Evolution**: Atlético’s average goals, positions, and defensive strength significantly improved under Simeone.
-- 📈 **Compared to Giants**: Despite financial and squad size differences, Atlético had competitive stats against Real Madrid and Barcelona.
-- 🏆 **European Competitions**:
-  - Champions League: Detailed breakdown by stages (Round of 16, Quarter-Finals, etc.)
-  - Europa League: Match-by-match analysis including home vs away performance
-- 🔥 **Derbi Madrid Showdown**: Detailed stats for all matches between Atlético and Real Madrid since 2011, including Copa del Rey, UCL, and Super Cups.
-- 📐 **Visualized Performance**: Multiple graphs comparing goals scored, goals conceded, match outcomes, and standings before vs with Simeone.
-
----
+To explore the full **data processing, cleaning, and analytics steps** used in this project, view the complete Jupyter Notebook:
+📄 [Click here to view the Full Project Code Notebook (PDF)](https://github.com/ehabmohamed223/Diego-Simeone-Impact-on-Atltico-Madrid/blob/main/Whole%20Code%20Notebook%20pdf/ProjectWholeCodeJupiterNoteBook.pdf)
