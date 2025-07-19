@@ -46,33 +46,42 @@ In addition, the project assesses Atlético Madrid’s track record against top-
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/67f1ef04-3f56-403c-87ab-6ed08380dc76" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e9c7ebac-a24b-42b1-b31b-8c6d30e166c2" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/216fe06c-0812-487d-b1b6-9892fc002da8" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ba2e35ef-983c-48a7-ba77-de09cc093446" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7a88bc65-5cc5-4b8a-b627-b331c425f58c" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/67f1ef04-3f56-403c-87ab-6ed08380dc76" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e9c7ebac-a24b-42b1-b31b-8c6d30e166c2" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/f259d7d3-6914-4118-a9f0-918ed8f5dc28" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/81f05889-27a0-4899-8a9f-ed1be8df1a9b" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/c6999333-77e4-4b7b-b9c9-2bb2ead60a4b" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a1daf185-9c84-486d-ab04-14e9b04cccb2" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b3fc4331-5de0-468c-8c5d-e3391039f4cd" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/216fe06c-0812-487d-b1b6-9892fc002da8" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ba2e35ef-983c-48a7-ba77-de09cc093446" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/8fe85c83-540b-4985-aafc-5f3e1b17291d" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/040f3c84-b68b-4737-987f-02c7e60a2404" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/8b64998c-85e1-4454-a9c6-573c26262327" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/3221cb27-ef7d-4ca4-9b18-c01823e12b27" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f2d6ef7a-dbe1-41a9-ae6a-1a8bf578ef03" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7a88bc65-5cc5-4b8a-b627-b331c425f58c" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f259d7d3-6914-4118-a9f0-918ed8f5dc28" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ba92d294-d39d-4db9-bef2-448a712ab14f" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b846fc1a-c721-42fb-a3fa-9256fb262d42" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/04ed7893-8cee-4778-b7c8-267b60113770" width="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/658358c5-8f75-4886-9de8-ca53bf75e0a6" width="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/81f05889-27a0-4899-8a9f-ed1be8df1a9b" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c6999333-77e4-4b7b-b9c9-2bb2ead60a4b" width="300"/></td>
   </tr>
-</table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a1daf185-9c84-486d-ab04-14e9b04cccb2" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b3fc4331-5de0-468c-8c5d-e3391039f4cd" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8fe85c83-540b-4985-aafc-5f3e1b17291d" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/040f3c84-b68b-4737-987f-02c7e60a2404" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8b64998c-85e1-4454-a9c6-573c26262327" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3221cb27-ef7d-4ca4-9b18-c01823e12b27" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f2d6ef7a-dbe1-41a9-ae6a-1a8bf578ef03" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ba92d294-d39d-4db9-bef2-448a712ab14f" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b846fc1a-c721-42fb-a3fa-9256fb262d42" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/04ed7893-8cee-4778-b7c8-267b60113770" width="300"/></td>
+  </tr>
+ </table>
 
 You can view or download the full performance report here:  
 [Download the Diego Simeone Impact Report (PDF)](https://github.com/ehabmohamed223/Diego-Simeone-Impact-on-Atltico-Madrid/blob/main/Final%20Dashboard%20by%20Looker%20Studio/Deigo_Simone_Impact_on_Atleti.pdf)
