@@ -1,0 +1,21 @@
+Rk	Date	Round	Venue	Scorer	Opponent	Start	xG	PSxG	Body Part	Distance	Minute	Score	Goalkeeper	Assist	GCA1	Type	GCA2	Type	Notes
+1	2018-02-15	Round of 32	Away	Saúl Ñíguez	FC Copenhagen	Y	0.41	0.69	Head	6	21	0-1	Robin Olsen	Antoine Griezmann	Antoine Griezmann	Pass (Live)	Ángel Correa	Pass (Live)	
+2	2018-02-15	Round of 32	Away	Kévin Gameiro	FC Copenhagen	Y	0.55	0.94	Right Foot	9	37	1-1	Robin Olsen	Lucas Hernández	Lucas Hernández	Pass (Live)	Antoine Griezmann	Pass (Live)	
+3	2018-02-15	Round of 32	Away	Antoine Griezmann	FC Copenhagen	Y	0.22	0.24	Left Foot	14	71	2-1	Robin Olsen	Yannick Carrasco					
+4	2018-02-15	Round of 32	Away	Vitolo	FC Copenhagen	N	0.06	0.12	Right Foot	17	77	3-1	Robin Olsen	Thomas Partey					
+5	2018-02-22	Round of 32	Home	Kévin Gameiro	FC Copenhagen	Y	0.03	0.13	Left Foot	28	7	0-0	Stephan Andersen	Ángel Correa	Ángel Correa	Pass (Live)	Juanfran	Pass (Live)	
+6	2018-03-08	Round of 16	Home	Saúl Ñíguez	Loko Moscow	Y	0.04	0.39	Left Foot	35	22	0-0	Guilherme Marinato	Juanfran	Saúl Ñíguez	Take-On	Juanfran	Pass (Live)	
+7	2018-03-08	Round of 16	Home	Diego Costa	Loko Moscow	Y	0.62	0.85	Left Foot	6	47	1-0	Guilherme Marinato		Antoine Griezmann	Shot			Volley
+8	2018-03-08	Round of 16	Home	Koke	Loko Moscow	Y*	0.11	0.40	Right Foot	14	90	2-0	Guilherme Marinato	Juanfran	Juanfran	Pass (Live)	Juanfran	Interception	
+9	2018-03-15	Round of 16	Away	Ángel Correa	Loko Moscow	Y	0.09	0.65	Right Foot	13	16	0-0	Anton Kochenkov	Koke	Ángel Correa	Take-On	Koke	Pass (Live)	
+10	2018-03-15	Round of 16	Away	Saúl Ñíguez	Loko Moscow	Y	0.10	0.69	Right Foot	12	47	1-1	Anton Kochenkov	Filipe Luís	Filipe Luís	Pass (Live)	Saúl Ñíguez	Pass (Live)	
+11	2018-03-15	Round of 16	Away	Fernando Torres	Loko Moscow	Y	0.79	0.89	Right Foot	13	65	2-1	Anton Kochenkov		Antoine Griezmann	Fouled	Antoine Griezmann	Take-On	
+12	2018-03-15	Round of 16	Away	Fernando Torres	Loko Moscow	Y	0.42	0.84	Right Foot	15	70	3-1	Anton Kochenkov	Ángel Correa	Ángel Correa	Pass (Live)	Thomas Partey	Pass (Live)	
+13	2018-03-15	Round of 16	Away	Antoine Griezmann	Loko Moscow	N	0.06	0.40	Left Foot	18	85	4-1	Anton Kochenkov	Ángel Correa	Ángel Correa	Pass (Live)	Ángel Correa	Take-On	
+14	2018-04-05	Quarter-finals	Home	Koke	Sporting CP	Y	0.61	0.97	Left Foot	9	1	0-0	Rui Patrício	Diego Costa	Diego Costa	Pass (Live)			
+15	2018-04-05	Quarter-finals	Home	Antoine Griezmann	Sporting CP	Y	0.30	0.66	Left Foot	13	40	1-0	Rui Patrício		Gabi	Pass (Live)	Juanfran	Pass (Live)	
+16	2018-04-26	Semi-finals	Away	Antoine Griezmann	Arsenal	Y	0.57	0.87	Left Foot	5	82	0-1	David Ospina		Antoine Griezmann	Shot			Deflected
+17	2018-05-03	Semi-finals	Home	Diego Costa	Arsenal	Y	0.48	0.41	Left Foot	12	45+2	0-0	David Ospina	Antoine Griezmann	Antoine Griezmann	Pass (Live)	Thomas Partey	Pass (Live)	
+18	2018-05-16	Final	Neutral	Antoine Griezmann	Marseille	Y	0.34	0.50	Left Foot	17	21	0-0	Steve Mandanda	Gabi	Gabi	Pass (Live)			
+19	2018-05-16	Final	Neutral	Antoine Griezmann	Marseille	Y	0.44	0.92	Left Foot	10	49	1-0	Steve Mandanda	Koke	Koke	Pass (Live)	Antoine Griezmann	Pass (Live)	
+20	2018-05-16	Final	Neutral	Gabi	Marseille	Y*	0.07	0.47	Right Foot	13	89	2-0	Steve Mandanda	Koke	Koke	Pass (Live)	Diego Costa	Pass (Live)	

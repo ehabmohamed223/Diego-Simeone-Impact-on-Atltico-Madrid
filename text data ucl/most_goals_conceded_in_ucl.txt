@@ -1,0 +1,100 @@
+1 Real Madrid ESP
+536
+2 Bayern München GER
+386
+3 Barcelona ESP
+357
+4 Benfica POR
+345
+5 Dynamo Kyiv UKR
+320
+5 Anderlecht BEL
+320
+7 Porto POR
+312
+8 Juventus ITA
+301
+9 Galatasaray TUR
+300
+10 Man Utd ENG
+299
+11 Celtic SCO
+287
+12 Olympiacos GRE
+283
+13 Ajax NED
+282
+14 Rangers SCO
+260
+15 Milan ITA
+259
+16 PSV NED
+252
+17 Shakhtar UKR
+242
+18 Rosenborg NOR
+232
+19 Liverpool ENG
+228
+20 Arsenal ENG
+226
+21 Dortmund GER
+225
+22 Panathinaikos GRE
+222
+23 GNK Dinamo CRO
+221
+24 Crvena Zvezda SRB
+220
+25 Sparta Praha CZE
+211
+26 FCSB ROU
+210
+27 Inter ITA
+209
+28 Spartak Moskva RUS
+193
+29 Basel SUI
+192
+30 Fenerbahçe TUR
+186
+31 Club Brugge BEL
+186
+32 Chelsea ENG
+181
+32 Paris FRA
+181
+34 Leverkusen GER
+180
+35 Lyon FRA
+178
+35 Sporting CP POR
+178
+37 Atleti ESP
+165
+38 Roma ITA
+159
+38 Monaco FRA
+159
+40 Malmö SWE
+158
+41 Jeunesse Esch LUX
+158
+42 CSKA Moskva RUS
+155
+43 Beşiktaş TUR
+153
+44 BATE Borisov BLR
+150
+45 Man City ENG
+144
+45 CSKA Sofia BUL
+144
+47 Partizan SRB
+142
+48 Marseille FRA
+141
+49 Linfield NIR
+139
+50 Copenhagen DEN
+134

@@ -1,0 +1,200 @@
+1 Club Brugge BEL
+236
+2 SK Rapid AUT
+229
+3 Sporting CP POR
+226
+4 AEK Athens GRE
+212
+5 Partizan SRB
+206
+5 Crvena Zvezda SRB
+206
+7 Feyenoord NED
+195
+8 PSV NED
+189
+9 Braga POR
+182
+9 Standard Liège BEL
+182
+11 Athletic Club ESP
+180
+11 Austria Wien AUT
+180
+13 Sparta Praha CZE
+179
+14 AZ Alkmaar NED
+177
+15 Slavia Praha CZE
+176
+15 Celtic SCO
+176
+17 Lazio ITA
+173
+17 Inter ITA
+173
+19 Olympiacos GRE
+172
+20 Fenerbahçe TUR
+171
+21 FCSB ROU
+171
+22 Ajax NED
+170
+22 PAOK GRE
+170
+22 Anderlecht BEL
+170
+25 Roma ITA
+169
+25 Grasshoppers SUI
+169
+27 GNK Dinamo CRO
+168
+28 Spartak Moskva RUS
+167
+29 Rosenborg NOR
+163
+30 Brøndby DEN
+160
+31 Benfica POR
+159
+32 Beşiktaş TUR
+158
+33 Helsinki FIN
+156
+34 Bordeaux FRA
+152
+35 Dinamo Tbilisi GEO
+150
+35 Levski BUL
+150
+35 Salzburg AUT
+150
+38 Stuttgart GER
+148
+39 Basel SUI
+146
+39 Marseille FRA
+146
+41 Rangers SCO
+146
+41 Panathinaikos GRE
+146
+43 Valencia ESP
+145
+44 S. Bratislava SVK
+144
+44 Hajduk Split CRO
+144
+44 Leverkusen GER
+144
+47 Legia Warszawa POL
+143
+48 Zürich SUI
+142
+49 Zenit RUS
+141
+49 Dynamo Kyiv UKR
+141
+51 Dinamo-Minsk BLR
+140
+52 Twente NED
+139
+53 Villarreal ESP
+137
+53 Ferencváros HUN
+137
+55 Apollon CYP
+136
+56 Qarabağ AZE
+135
+56 Napoli ITA
+135
+58 Tottenham ENG
+134
+59 Sevilla ESP
+133
+59 APOEL CYP
+133
+61 Gent BEL
+133
+62 Hamburg GER
+132
+63 Shakhtar UKR
+131
+64 Trabzonspor TUR
+130
+65 Dinamo Bucureşti ROU
+127
+66 Copenhagen DEN
+124
+67 Midtjylland DEN
+123
+67 Molde NOR
+123
+67 Sturm Graz AUT
+123
+67 Bremen GER
+123
+71 M. Tel-Aviv ISR
+121
+71 Mönchengladbach GER
+121
+71 CSKA Sofia BUL
+121
+71 Young Boys SUI
+121
+75 Galatasaray TUR
+119
+76 Omonoia CYP
+118
+76 Frankfurt GER
+118
+78 Differdange LUX
+117
+78 Atleti ESP
+117
+80 Anorthosis CYP
+114
+81 Dnipro UKR
+114
+82 Köln GER
+113
+83 Sarajevo BIH
+112
+83 Lyon FRA
+112
+83 Hibernians MLT
+112
+83 Aberdeen SCO
+112
+83 Porto POR
+112
+88 BATE Borisov BLR
+111
+88 Malmö SWE
+111
+90 Milan ITA
+109
+91 Juventus ITA
+106
+92 Liberec CZE
+104
+92 Genk BEL
+104
+92 Maribor SVN
+104
+95 Liverpool ENG
+103
+96 Glentoran NIR
+102
+97 Vitória SC POR
+101
+97 Honvéd HUN
+101
+99 H. Tel Aviv ISR
+100
+99 Lokomotiv Moskva RUS
+100

@@ -1,0 +1,87 @@
+Comp	Round	Day	Date	Time	Home	xG	Score	xG	Away	Attendance	Venue	Referee	Match Report	Notes
+La Liga	La Liga	Sun	2025-02-09		Real Madrid				Atlético Madrid		Estadio Santiago Bernabéu			
+La Liga	La Liga	Sun	2024-09-29		Atlético Madrid				Real Madrid		Estadio Cívitas Metropolitano			
+La Liga	La Liga	Sun	2024-02-04	21:00 (22:00)	Real Madrid	1.9	1–1	1.1	Atlético Madrid	76,732	Estadio Santiago Bernabéu	José Sánchez	Match Report	
+Copa del Rey	Round of 16	Thu	2024-01-18	21:30 (22:30)	Atlético Madrid		4–2		Real Madrid	67,623	Estadio Cívitas Metropolitano	Guillermo Cuadra	Match Report	Required Extra Time
+Supercopa de España	Semi-finals	Wed	2024-01-10	22:00 (21:00)	Real Madrid		5–3		Atlético Madrid	25,000	Al Awwal Park Stadium	Hsu Jason	Match Report	Required Extra Time
+La Liga	La Liga	Sun	2023-09-24	21:00 (22:00)	Atlético Madrid	1.4	3–1	1.0	Real Madrid	69,082	Estadio Cívitas Metropolitano	Javier Alberola	Match Report	
+La Liga	La Liga	Sat	2023-02-25	18:30 (19:30)	Real Madrid	1.6	1–1	0.3	Atlético Madrid	64,721	Estadio Santiago Bernabéu	Jesús Gil	Match Report	
+Copa del Rey	Quarter-finals	Thu	2023-01-26	21:00 (22:00)	Real Madrid		3–1		Atlético Madrid	68,000	Estadio Santiago Bernabéu	César Soto	Match Report	Required Extra Time
+La Liga	La Liga	Sun	2022-09-18	21:00	Atlético Madrid	1.0	1–2	0.9	Real Madrid	66,881	Estadio Cívitas Metropolitano	José Luis Munuera	Match Report	
+La Liga	La Liga	Sun	2022-05-08	21:00	Atlético Madrid	2.3	1–0	1.1	Real Madrid	63,874	Estadio Wanda Metropolitano	César Soto	Match Report	
+La Liga	La Liga	Sun	2021-12-12	21:00 (22:00)	Real Madrid	0.4	2–0	0.7	Atlético Madrid	51,024	Estadio Santiago Bernabéu	Antonio Matéu Lahoz	Match Report	
+La Liga	La Liga	Sun	2021-03-07	16:15 (17:15)	Atlético Madrid	1.4	1–1	1.6	Real Madrid		Estadio Wanda Metropolitano	Alejandro Hernández	Match Report	
+La Liga	La Liga	Sat	2020-12-12	21:00 (22:00)	Real Madrid	0.9	2–0	0.7	Atlético Madrid		Estadio Alfredo Di Stéfano	Antonio Matéu Lahoz	Match Report	
+La Liga	La Liga	Sat	2020-02-01	16:00 (17:00)	Real Madrid	1.1	1–0	0.4	Atlético Madrid	77,223	Estadio Santiago Bernabéu	Daniel Ask	Match Report	
+Supercopa de España	Final	Sun	2020-01-12	21:00 (20:00)	Real Madrid		(4) 0–0 (1)		Atlético Madrid	59,053	King Abdullah Sports City	José Sánchez	Match Report	Real Madrid won on penalty kicks following extra time
+La Liga	La Liga	Sat	2019-09-28	21:00	Atlético Madrid	0.9	0–0	0.4	Real Madrid	68,032	Estadio Wanda Metropolitano	José González	Match Report	
+La Liga	La Liga	Sat	2019-02-09	16:15 (17:15)	Atlético Madrid	1.1	1–3	1.6	Real Madrid	67,752	Estadio Wanda Metropolitano	Daniel Ask	Match Report	
+La Liga	La Liga	Sat	2018-09-29	20:45	Real Madrid	1.2	0–0	0.8	Atlético Madrid	78,642	Estadio Santiago Bernabéu	Juan Martínez	Match Report	
+Super Cup	UEFA Super Cup	Wed	2018-08-15	22:00 (21:00)	Real Madrid		2–4		Atlético Madrid	12,424	A. Le Coq Arena (Neutral Site)	Szymon Marciniak	Match Report	Required Extra Time
+La Liga	La Liga	Sun	2018-04-08	16:15	Real Madrid	2.1	1–1	1.1	Atlético Madrid	78,769	Estadio Santiago Bernabéu	Daniel Ask	Match Report	
+La Liga	La Liga	Sat	2017-11-18	20:45 (21:45)	Atlético Madrid	0.7	0–0	1.4	Real Madrid	66,496	Estadio Wanda Metropolitano	David Fernández	Match Report	
+Champions Lg	Semi-finals	Wed	2017-05-10	20:45	Atlético Madrid		2–1		Real Madrid	53,422	Estadio Vicente Calderón	Cüneyt Çakιr	Match Report	Leg 2 of 2; Real Madrid won
+Champions Lg	Semi-finals	Tue	2017-05-02	20:45	Real Madrid		3–0		Atlético Madrid	77,609	Estadio Santiago Bernabéu	Martin Atkinson	Match Report	Leg 1 of 2
+La Liga	La Liga	Sat	2017-04-08	16:15	Real Madrid		1–1		Atlético Madrid	80,000	Estadio Santiago Bernabéu	Ricardo de Burgos	Match Report	
+La Liga	La Liga	Sat	2016-11-19	20:45 (21:45)	Atlético Madrid		0–3		Real Madrid	53,741	Estadio Vicente Calderón	David Fernández	Match Report	
+Champions Lg	Final	Sat	2016-05-28	20:45	Real Madrid		(5) 1–1 (3)		Atlético Madrid	71,942	Stadio Giuseppe Meazza (Neutral Site)	Mark Clattenburg	Match Report	Real Madrid won on penalty kicks following extra time
+La Liga	La Liga	Sat	2016-02-27	16:00 (17:00)	Real Madrid		0–1		Atlético Madrid	79,436	Estadio Santiago Bernabéu	Carlos Clos Gómez	Match Report	
+Comp	Round	Day	Date	Time	Home	xG	Score	xG	Away	Attendance	Venue	Referee	Match Report	Notes
+La Liga	La Liga	Sun	2015-10-04	20:30	Atlético Madrid		1–1		Real Madrid	53,079	Estadio Vicente Calderón	Alberto Undiano	Match Report	
+Champions Lg	Quarter-finals	Wed	2015-04-22	20:45	Real Madrid		1–0		Atlético Madrid	80,000	Estadio Santiago Bernabéu	Felix Brych	Match Report	Leg 2 of 2; Real Madrid won
+Champions Lg	Quarter-finals	Tue	2015-04-14	20:45	Atlético Madrid		0–0		Real Madrid	52,553	Estadio Vicente Calderón	Milorad Mažić	Match Report	Leg 1 of 2
+La Liga	La Liga	Sat	2015-02-07	16:00 (17:00)	Atlético Madrid		4–0		Real Madrid	52,063	Estadio Vicente Calderón	David Fernández	Match Report	
+Copa del Rey	Round of 16	Thu	2015-01-15	20:00 (21:00)	Real Madrid		2–2		Atlético Madrid	81,000	Estadio Santiago Bernabéu	Antonio Matéu Lahoz	Match Report	Leg 2 of 2; Atlético Madrid won
+Copa del Rey	Round of 16	Wed	2015-01-07	21:00 (22:00)	Atlético Madrid		2–0		Real Madrid	51,000	Estadio Vicente Calderón	Carlos Clos Gómez	Match Report	Leg 1 of 2
+La Liga	La Liga	Sat	2014-09-13	20:00 (21:00)	Real Madrid		1–2		Atlético Madrid	85,253	Estadio Santiago Bernabéu	Antonio Matéu Lahoz	Match Report	
+Champions Lg	Final	Sat	2014-05-24		Real Madrid		4–1		Atlético Madrid		Estádio do Sport Lisboa e Benfica (Neutral Site)	Björn Kuipers	Match Report	Required Extra Time
+La Liga	La Liga	Sun	2014-03-02		Atlético Madrid		2–2		Real Madrid		Vicente Calderón	Delgado Ferreiro	Match Report	
+La Liga	La Liga	Sat	2013-09-28		Real Madrid		0–1		Atlético Madrid		Santiago Bernabéu	Mateu Lahoz	Match Report	
+La Liga	La Liga	Sat	2013-04-27		Atlético Madrid		1–2		Real Madrid		Vicente Calderón	Pérez Lasa	Match Report	
+La Liga	La Liga	Sat	2012-12-01		Real Madrid		2–0		Atlético Madrid		Santiago Bernabéu	Undiano Mallenco	Match Report	
+La Liga	La Liga	Wed	2012-04-11		Atlético Madrid		1–4		Real Madrid		Vicente Calderón	Delgado Ferreiro	Match Report	
+La Liga	La Liga	Sat	2011-11-26		Real Madrid		4–1		Atlético Madrid		Santiago Bernabéu	Mateu Lahoz	Match Report	
+La Liga	La Liga	Sat	2011-03-19		Atlético Madrid		1–2		Real Madrid		Vicente Calderón	Teixeira Vitienes	Match Report	
+La Liga	La Liga	Sun	2010-11-07		Real Madrid		2–0		Atlético Madrid		Santiago Bernabéu	Mateu Lahoz	Match Report	
+La Liga	La Liga	Sun	2010-03-28		Real Madrid		3–2		Atlético Madrid		Santiago Bernabéu	Undiano Mallenco	Match Report	
+La Liga	La Liga	Sat	2009-11-07		Atlético Madrid		2–3		Real Madrid		Vicente Calderón	Clos Gómez	Match Report	
+La Liga	La Liga	Sat	2009-03-07		Real Madrid		1–1		Atlético Madrid		Santiago Bernabéu	Fernández Borbalán	Match Report	
+La Liga	La Liga	Sat	2008-10-18		Atlético Madrid		1–2		Real Madrid		Vicente Calderón	Clos Gómez	Match Report	
+La Liga	La Liga	Sun	2008-01-20		Atlético Madrid		0–2		Real Madrid		Vicente Calderón	Muñiz Fernández	Match Report	
+La Liga	La Liga	Sat	2007-08-25		Real Madrid		2–1		Atlético Madrid		Santiago Bernabéu	Mejuto González	Match Report	
+La Liga	La Liga	Sat	2007-02-24		Atlético Madrid		1–1		Real Madrid		Vicente Calderón	Daudén Ibáñez	Match Report	
+La Liga	La Liga	Sun	2006-10-01		Real Madrid		1–1		Atlético Madrid		Santiago Bernabéu	Undiano Mallenco	Match Report	
+La Liga	La Liga	Sat	2006-03-04		Real Madrid		2–1		Atlético Madrid		Santiago Bernabéu	Medina Cantalejo	Match Report	
+Comp	Round	Day	Date	Time	Home	xG	Score	xG	Away	Attendance	Venue	Referee	Match Report	Notes
+La Liga	La Liga	Sat	2005-10-15		Atlético Madrid		0–3		Real Madrid		Vicente Calderón	González Vázquez	Match Report	
+La Liga	La Liga	Sat	2005-05-21		Real Madrid		0–0		Atlético Madrid		Santiago Bernabéu	Muñiz Fernández	Match Report	
+La Liga	La Liga	Sun	2005-01-09		Atlético Madrid		0–3		Real Madrid		Vicente Calderón	Pérez Burrull	Match Report	
+La Liga	La Liga	Sat	2004-04-17		Atlético Madrid		1–2		Real Madrid		Vicente Calderón	Moreno Delgado	Match Report	
+La Liga	La Liga	Wed	2003-12-03		Real Madrid		2–0		Atlético Madrid		Santiago Bernabéu	Pino Zamorano	Match Report	
+La Liga	La Liga	Sun	2003-06-15		Atlético Madrid		0–4		Real Madrid		Vicente Calderón	Pérez Burrull	Match Report	
+La Liga	La Liga	Sun	2003-01-19		Real Madrid		2–2		Atlético Madrid		Santiago Bernabéu	Daudén Ibáñez	Match Report	
+La Liga	La Liga	Sat	2000-03-18		Atlético Madrid		1–1		Real Madrid		Vicente Calderón	López Nieto	Match Report	
+La Liga	La Liga	Sat	1999-10-30		Real Madrid		1–3		Atlético Madrid		Santiago Bernabéu	López Nieto	Match Report	
+La Liga	La Liga	Sat	1999-06-12		Atlético Madrid		3–1		Real Madrid		Vicente Calderón	Bueno Grimal	Match Report	
+La Liga	La Liga	Sun	1999-01-17		Real Madrid		4–2		Atlético Madrid		Santiago Bernabéu	Carmona Méndez	Match Report	
+La Liga	La Liga	Sat	1998-01-10		Atlético Madrid		1–1		Real Madrid		Vicente Calderón	Losantos Omar	Match Report	
+La Liga	La Liga	Sat	1997-08-30		Real Madrid		1–1		Atlético Madrid		Santiago Bernabéu	Brito Arceo	Match Report	
+La Liga	La Liga	Sat	1997-06-14		Real Madrid		3–1		Atlético Madrid		Santiago Bernabéu	Barrenechea Montero	Match Report	
+La Liga	La Liga	Sat	1997-01-18		Atlético Madrid		1–4		Real Madrid		Vicente Calderón	Iturralde González	Match Report	
+La Liga	La Liga	Sat	1996-03-30		Atlético Madrid		1–2		Real Madrid		Vicente Calderón	Carmona Méndez	Match Report	
+La Liga	La Liga	Sat	1995-11-18		Real Madrid		1–0		Atlético Madrid		Santiago Bernabéu	Díaz Vega	Match Report	
+La Liga	La Liga	Sat	1995-04-15		Atlético Madrid		0–2		Real Madrid		Vicente Calderón	Fernández Marín	Match Report	
+La Liga	La Liga	Sat	1994-11-05		Real Madrid		4–2		Atlético Madrid		Santiago Bernabéu	López Nieto	Match Report	
+La Liga	La Liga	Sat	1994-02-19		Real Madrid		1–0		Atlético Madrid		Santiago Bernabéu	Brito Arceo	Match Report	
+La Liga	La Liga	Sat	1993-10-02		Atlético Madrid		0–0		Real Madrid		Vicente Calderón	Urío Velázquez	Match Report	
+La Liga	La Liga	Sat	1993-06-12		Real Madrid		1–0		Atlético Madrid		Santiago Bernabéu	Ansuategui Roca	Match Report	
+La Liga	La Liga	Sat	1993-01-16		Atlético Madrid		1–1		Real Madrid		Vicente Calderón	Urío Velázquez	Match Report	
+La Liga	La Liga	Sat	1992-05-16		Real Madrid		3–2		Atlético Madrid		Santiago Bernabéu	Urío Velázquez	Match Report	
+La Liga	La Liga	Sat	1992-01-04		Atlético Madrid		2–0		Real Madrid		Vicente Calderón	Marín López	Match Report	
+Comp	Round	Day	Date	Time	Home	xG	Score	xG	Away	Attendance	Venue	Referee	Match Report	Notes
+La Liga	La Liga	Sun	1991-06-02		Atlético Madrid		0–3		Real Madrid		Vicente Calderón	Ramos Marcos	Match Report	
+La Liga	La Liga	Sat	1991-01-12		Real Madrid		0–3		Atlético Madrid		Santiago Bernabéu	Enríquez Negreira	Match Report	
+La Liga	La Liga	Sat	1990-04-28		Atlético Madrid		3–3		Real Madrid		Vicente Calderón	Mazorra Freire	Match Report	
+La Liga	La Liga	Sat	1990-01-06		Real Madrid		3–1		Atlético Madrid		Santiago Bernabéu	Enríquez Negreira	Match Report	
+La Liga	La Liga	Sat	1989-05-20		Atlético Madrid		3–3		Real Madrid		Vicente Calderón	Merino González	Match Report	
+La Liga	La Liga	Sat	1988-12-03		Real Madrid		2–1		Atlético Madrid		Santiago Bernabéu	Martín Navarrete	Match Report	
