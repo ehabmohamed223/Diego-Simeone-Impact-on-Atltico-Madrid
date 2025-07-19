@@ -74,25 +74,8 @@ In addition, the project assesses Atlético Madrid’s track record against top-
   </tr>
 </table>
 
-
-
-
-
-
-## **📊 Tools & Technologies**
-
-- Python (Jupyter Notebook)
-- Pandas & NumPy for data manipulation
-- Matplotlib & Plotly for data visualization
-- PDF Report for final presentation
-
----
-
-## **📁 Project Files**
-
-- 📄 [Full PDF Report – Diego Simeone’s Impact on Atleti](https://github.com/ehabmohamed223/egyptopia-graduation-project/blob/main/Analysis%20of%20Deigo%20Simone%20Impact%20on%20Atletico%20Madrid/Deigo_Simone_Impact_on_Atleti.pdf)
-
-- 📓 [Jupyter Notebook – Project Code](https://github.com/ehabmohamed223/egyptopia-graduation-project/blob/main/Analysis%20of%20Deigo%20Simone%20Impact%20on%20Atletico%20Madrid/ProjectWholeCodeJupiterNoteBook.pdf)
+You can view or download the full performance report here:  
+[Download the Diego Simeone Impact Report (PDF)](https://github.com/ehabmohamed223/Diego-Simeone-Impact-on-Atltico-Madrid/blob/main/Final%20Dashboard%20by%20Looker%20Studio/Deigo_Simone_Impact_on_Atleti.pdf)
 
 ---
 
@@ -105,11 +88,5 @@ In addition, the project assesses Atlético Madrid’s track record against top-
   - Europa League: Match-by-match analysis including home vs away performance
 - 🔥 **Derbi Madrid Showdown**: Detailed stats for all matches between Atlético and Real Madrid since 2011, including Copa del Rey, UCL, and Super Cups.
 - 📐 **Visualized Performance**: Multiple graphs comparing goals scored, goals conceded, match outcomes, and standings before vs with Simeone.
-
----
-
-## **📌 Credits**
-- Data collection and visualizations by [Ehab Mohamed](https://github.com/ehabmohamed223)
-- All club images and logos are property of Atlético Madrid.
 
 ---
