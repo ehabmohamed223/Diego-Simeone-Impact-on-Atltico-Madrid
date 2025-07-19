@@ -82,4 +82,4 @@ You can view or download the full performance report here:
 ##  Data Processing & Analytics Notebook
 
 To explore the full **data processing, cleaning, and analytics steps** used in this project, view the complete Jupyter Notebook:
-📄 [Click here to view the Full Project Code Notebook (PDF)](https://github.com/ehabmohamed223/Diego-Simeone-Impact-on-Atltico-Madrid/blob/main/Whole%20Code%20Notebook%20pdf/ProjectWholeCodeJupiterNoteBook.pdf)
+[Click here to view the Full Project Code Notebook (PDF)](https://github.com/ehabmohamed223/Diego-Simeone-Impact-on-Atltico-Madrid/blob/main/Whole%20Code%20Notebook%20pdf/ProjectWholeCodeJupiterNoteBook.pdf)
