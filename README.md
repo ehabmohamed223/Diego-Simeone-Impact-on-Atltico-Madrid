@@ -67,11 +67,10 @@ In addition, the project assesses Atlético Madrid’s track record against top-
     <td><img src="https://github.com/user-attachments/assets/f2d6ef7a-dbe1-41a9-ae6a-1a8bf578ef03" width="180"/></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1022" width="180"/></td>
     <td><img src="https://github.com/user-attachments/assets/ba92d294-d39d-4db9-bef2-448a712ab14f" width="180"/></td>
     <td><img src="https://github.com/user-attachments/assets/b846fc1a-c721-42fb-a3fa-9256fb262d42" width="180"/></td>
     <td><img src="https://github.com/user-attachments/assets/04ed7893-8cee-4778-b7c8-267b60113770" width="180"/></td>
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/658358c5-8f75-4886-9de8-ca53bf75e0a6" width="180"/></td>
   </tr>
 </table>
 
